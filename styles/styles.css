@@ -1,0 +1,74 @@
+a 
+{
+    text-decoration: none;
+}
+
+h1 
+{
+
+}
+h2
+{
+
+}
+h3
+{
+
+}
+.navigation
+{
+
+}
+.first-half-logo
+{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+.second-half-logo
+{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+.mail
+{
+
+}
+.phone
+{
+
+}
+
+.features-list 
+{
+    display: inline; 
+    list-style-type: none;
+}
+.activity-h2
+{
+
+}
+.activity-list
+{
+    display: inline; 
+    list-style-type: none;
+}
+.team-list
+{
+    display: inline; 
+    list-style-type: none;
+}
+.address-list 
+{
+    display: inline; 
+    list-style-type: none;
+}
